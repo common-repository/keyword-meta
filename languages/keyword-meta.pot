@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Keyword Meta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-19 12:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.3-alpha-46995"
+
+#. Author of the plugin
+msgid "appleuser"
+msgstr ""
+
+#: keyword-meta.php:250 keyword-meta.php:272 keyword-meta.php:288
+#, php-format
+msgid "Click the image %s."
+msgstr ""
+
+#: keyword-meta.php:221
+msgid "Description"
+msgstr ""
+
+#: keyword-meta.php:218
+msgid "Enable combining page based keywords with site based keywords"
+msgstr ""
+
+#: keyword-meta.php:227
+msgid "Enable OpenGraph"
+msgstr ""
+
+#: keyword-meta.php:209
+msgid "Generic"
+msgstr ""
+
+#: keyword-meta.php:217
+msgid "Generic Meta"
+msgstr ""
+
+#: keyword-meta.php:212
+msgid "Google"
+msgstr ""
+
+#: keyword-meta.php:293
+msgid "Google related Meta-Tags"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/appleuser"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/keyword-meta/"
+msgstr ""
+
+#: keyword-meta.php:250
+msgid ""
+"If no image is set to a page, OpenGraph can show an image from your library "
+"as OpenGraph image."
+msgstr ""
+
+#. Name of the plugin
+msgid "Keyword Meta"
+msgstr ""
+
+#: keyword-meta.php:125 keyword-meta.php:134
+msgid "Keywords & Meta"
+msgstr ""
+
+#: keyword-meta.php:135
+msgid "Manage your Meta-Tags"
+msgstr ""
+
+#: keyword-meta.php:211
+msgid "Mobile"
+msgstr ""
+
+#: keyword-meta.php:255
+msgid "Mobile related Meta-Tags"
+msgstr ""
+
+#: keyword-meta.php:220
+msgid "of 1000 description chars."
+msgstr ""
+
+#: keyword-meta.php:222
+msgid "of 300 description chars."
+msgstr ""
+
+#: keyword-meta.php:210
+msgid "OpenGraph"
+msgstr ""
+
+#: keyword-meta.php:226
+msgid "OpenGraph Meta-Tags"
+msgstr ""
+
+#: keyword-meta.php:229
+msgid "OpenGraph title"
+msgstr ""
+
+#: keyword-meta.php:231
+msgid ""
+"OpenGraph will use the permalink of a page or an entry to show OpenGraph URL"
+msgstr ""
+
+#: keyword-meta.php:223 keyword-meta.php:252 keyword-meta.php:290
+#: keyword-meta.php:296
+msgid "Save"
+msgstr ""
+
+#: keyword-meta.php:289
+msgid ""
+"Set mobile viewport and disable resizing on mobile devices if not supported "
+"by theme"
+msgstr ""
+
+#: keyword-meta.php:232
+msgid "Setup base URL as OpenGraph URL to ALL pages"
+msgstr ""
+
+#: keyword-meta.php:228
+msgid "Setup OpenGraph Type to 'Website'"
+msgstr ""
+
+#: keyword-meta.php:294
+msgid ""
+"Setup the Google site verification code to show Google, this is your website"
+msgstr ""
+
+#: keyword-meta.php:256
+msgid "Setup the touch icon URL"
+msgstr ""
+
+#: keyword-meta.php:251
+msgid "Setup this image as OpenGraph Image to ALL pages"
+msgstr ""
+
+#: keyword-meta.php:230
+msgid "Setup this title as OpenGraph title to ALL pages"
+msgstr ""
+
+#: keyword-meta.php:220 keyword-meta.php:222
+msgid "The background color will help you to assess the optimized char count."
+msgstr ""
+
+#: keyword-meta.php:222
+msgid "The description will be used on every page no excerpt is defined."
+msgstr ""
+
+#: keyword-meta.php:220
+msgid ""
+"The keywords will be used on every page and will be combined with tags are "
+"defined on a single page."
+msgstr ""
+
+#: keyword-meta.php:220
+msgid "The keywords will be used on every page no tags are defined."
+msgstr ""
+
+#: keyword-meta.php:219
+msgid "these, are, some, keywords"
+msgstr ""
+
+#: keyword-meta.php:238 keyword-meta.php:262 keyword-meta.php:278
+msgid "to change"
+msgstr ""
+
+#: keyword-meta.php:242 keyword-meta.php:266 keyword-meta.php:282
+msgid "to setup"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Use your post-tags to define keywords for a page automatically. Add "
+"OpenGraph-Meta and Google verification on the fly."
+msgstr ""
+
+#: keyword-meta.php:220 keyword-meta.php:222
+msgid "You have used"
+msgstr ""
+
+#: keyword-meta.php:288
+msgid "Your Icon should be 196x196 pixels and not contain alpha"
+msgstr ""
+
+#: keyword-meta.php:272
+msgid "Your Icon should be 512x512 pixels and not contain alpha"
+msgstr ""

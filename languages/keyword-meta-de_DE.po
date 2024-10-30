@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Keyword Meta 0.1\n"
+"POT-Creation-Date: 2020-02-19 12:47+0000\n"
+"PO-Revision-Date: 2020-02-19 12:50+0000\n"
+"Last-Translator: appleuser\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.1; wp-5.3.3-alpha-46995"
+
+#: keyword-meta.php:125 keyword-meta.php:134
+msgid "Keywords & Meta"
+msgstr "Keywords & Meta"
+
+#: keyword-meta.php:135
+msgid "Manage your Meta-Tags"
+msgstr ""
+"Verwalte die Meta-Tags deiner Seite und füge ein paar neue Meta-Tags hinzu"
+
+#: keyword-meta.php:209
+msgid "Generic"
+msgstr "Allgemein"
+
+#: keyword-meta.php:210
+msgid "OpenGraph"
+msgstr "OpenGraph"
+
+#: keyword-meta.php:211
+msgid "Mobile"
+msgstr "Mobilgeräte"
+
+#: keyword-meta.php:212
+msgid "Google"
+msgstr "Google"
+
+#: keyword-meta.php:217
+msgid "Generic Meta"
+msgstr "Keywords & Beschreibung"
+
+#: keyword-meta.php:218
+msgid "Enable combining page based keywords with site based keywords"
+msgstr "Aktiviere die Verbindung von Seiten- und Website-spezifischen Keywords"
+
+#: keyword-meta.php:219
+msgid "these, are, some, keywords"
+msgstr "das, sind, ein, paar, keywords"
+
+#: keyword-meta.php:220
+msgid "The keywords will be used on every page no tags are defined."
+msgstr ""
+"Die Keywords werden auf allen Seiten verwendet, für die keine Tags definiert "
+"sind."
+
+#: keyword-meta.php:220
+msgid ""
+"The keywords will be used on every page and will be combined with tags are "
+"defined on a single page."
+msgstr ""
+"Die Keywords werden auf jeder Seite verwendet und dort mit gegebenenfalls "
+"vorhandenen Keywords, die aus den Tags erzeugt wurden, kombiniert."
+
+#: keyword-meta.php:220 keyword-meta.php:222
+msgid "You have used"
+msgstr "Du hast"
+
+#: keyword-meta.php:220
+msgid "of 1000 description chars."
+msgstr "von 1000 Zeichen verwendet"
+
+#: keyword-meta.php:220 keyword-meta.php:222
+msgid "The background color will help you to assess the optimized char count."
+msgstr ""
+"Die Hintergrundfarbe kann dir helfen, die optimale Anzahl an Zeichen "
+"einzuschätzen."
+
+#: keyword-meta.php:221
+msgid "Description"
+msgstr "Beschreibung"
+
+#: keyword-meta.php:222
+msgid "The description will be used on every page no excerpt is defined."
+msgstr ""
+"Die Beschreibung wird auf allen Seiten verwendet, für die kein Auszug "
+"definiert ist."
+
+#: keyword-meta.php:222
+msgid "of 300 description chars."
+msgstr "von 300 Zeichen verwendet"
+
+#: keyword-meta.php:223 keyword-meta.php:252 keyword-meta.php:290
+#: keyword-meta.php:296
+msgid "Save"
+msgstr "Übernehmen"
+
+#: keyword-meta.php:226
+msgid "OpenGraph Meta-Tags"
+msgstr "OpenGraph Meta-Tags"
+
+#: keyword-meta.php:227
+msgid "Enable OpenGraph"
+msgstr "OpenGraph Funktionen aktivieren"
+
+#: keyword-meta.php:228
+msgid "Setup OpenGraph Type to 'Website'"
+msgstr "Stelle den OpenGraph Typ auf 'Webseite'"
+
+#: keyword-meta.php:229
+msgid "OpenGraph title"
+msgstr "OpenGraph Titel"
+
+#: keyword-meta.php:230
+msgid "Setup this title as OpenGraph title to ALL pages"
+msgstr ""
+"Stelle <strong>DIESEN</strong> Titel als OpenGraph Titel für <strong>"
+"ALLE</strong> Seiten ein"
+
+#: keyword-meta.php:231
+msgid ""
+"OpenGraph will use the permalink of a page or an entry to show OpenGraph URL"
+msgstr ""
+"OpenGraph wird den Permalink einer jeden Seite als URL für diese Seite nutzen"
+
+#: keyword-meta.php:232
+msgid "Setup base URL as OpenGraph URL to ALL pages"
+msgstr ""
+"Setze die Basis-URL deiner Site als URL für <strong>ALLE</strong> Seiten"
+
+#: keyword-meta.php:238 keyword-meta.php:262 keyword-meta.php:278
+msgid "to change"
+msgstr "zu ändern."
+
+#: keyword-meta.php:242 keyword-meta.php:266 keyword-meta.php:282
+msgid "to setup"
+msgstr "einzurichten."
+
+#: keyword-meta.php:250
+msgid ""
+"If no image is set to a page, OpenGraph can show an image from your library "
+"as OpenGraph image."
+msgstr ""
+"Wenn kein Bild für einen Beitrag oder eine Seite definiert ist, kann für "
+"OpenGraph ein entsprechendes allgemeines Bild zugewiesen werden."
+
+#: keyword-meta.php:250 keyword-meta.php:272 keyword-meta.php:288
+#, php-format
+msgid "Click the image %s."
+msgstr "Klicke auf das Bild, um es "
+
+#: keyword-meta.php:251
+msgid "Setup this image as OpenGraph Image to ALL pages"
+msgstr ""
+"Stelle <strong>DIESES</strong> Bild für <strong>ALLE</strong> Seiten als "
+"OpenGraph Bild ein"
+
+#: keyword-meta.php:255
+msgid "Mobile related Meta-Tags"
+msgstr "Meta-Tags für mobile Endgeräte"
+
+#: keyword-meta.php:256
+msgid "Setup the touch icon URL"
+msgstr "Hier kannst du Icons für mobile Endgeräte hinterlegen"
+
+#: keyword-meta.php:272
+msgid "Your Icon should be 512x512 pixels and not contain alpha"
+msgstr "Das Icon sollte 512x512 Pixel haben und nicht transparent sein"
+
+#: keyword-meta.php:288
+msgid "Your Icon should be 196x196 pixels and not contain alpha"
+msgstr "Das Icon sollte 196x196 Pixel haben und nicht transparent sein"
+
+#: keyword-meta.php:289
+msgid ""
+"Set mobile viewport and disable resizing on mobile devices if not supported "
+"by theme"
+msgstr ""
+"Setze den Viewport und unterbinde das zoomen in der Seite, wenn dein Theme "
+"diese Funktionen nicht schon unterstützt"
+
+#: keyword-meta.php:293
+msgid "Google related Meta-Tags"
+msgstr "Meta-Tags für Google"
+
+#: keyword-meta.php:294
+msgid ""
+"Setup the Google site verification code to show Google, this is your website"
+msgstr "Trage hier die ID von Google ein, um deine Seite zu verifizieren"
+
+#. Name of the plugin
+msgid "Keyword Meta"
+msgstr "Keyword Meta"
+
+#. Description of the plugin
+msgid ""
+"Use your post-tags to define keywords for a page automatically. Add "
+"OpenGraph-Meta and Google verification on the fly."
+msgstr ""
+"Benutze die Suchworte deiner Beiträge automatisch als Keywords. Füge ein "
+"paar OpenGraph-Funktionen oder die Google Seitenverifikation ganz einfach "
+"hinzu."
+
+# Link
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/keyword-meta/"
+msgstr "https://wordpress.org/plugins/keyword-meta/"
+
+# Autor
+#. Author of the plugin
+msgid "appleuser"
+msgstr "appleuser"
+
+# Autorenlink
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/appleuser"
+msgstr "https://profiles.wordpress.org/appleuser"

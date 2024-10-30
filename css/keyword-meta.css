@@ -1,0 +1,14 @@
+#ckm-tabs { width: 95%; }
+#ckm-tabs ul { list-style-type: none; width: 100%; border-bottom: 1px solid #ddd; margin-bottom: 0px; }
+#ckm-tabs ul li { float: left; padding: 5px 10px; margin-right: 5px; margin-bottom: 0px; border-top: 1px solid #ddd; border-right: 1px solid #ddd; border-left: 1px solid #ddd; cursor: pointer; background: #ddd; }
+#ckm-tabs ul li.ui-tabs-active { background: #fff; }
+#ckm-tabs ul li.closetabs { float: none; clear: both; padding: 0px; margin: 0px; border: none; }
+#ckm-tabs ul li a { color: inherit; text-decoration: none; font-weight: bold; outline: none; border: none; box-shadow: none; -webkit-box-shadow: none; cursor: pointer; }
+
+#ckm-tabs div.ui-tabs-panel { border-bottom: 1px solid #ddd; }
+
+#ckm-tabs fieldset.showcode { border: 1px solid #ddd; }
+#ckm-tabs fieldset.showcode div.showcode-content { padding: 0.5em 10px; }
+#ckm-tabs fieldset.showcode div.showcode-content p { margin: 0.5em 0px; }
+#ckm-tabs fieldset.showcode legend.showcode-legend { margin-left: 5px; padding: 0px 5px; font-size: 0.8em; font-weight: bold; }
+#ckm-tabs input.ckm-input { width: 95%; }
